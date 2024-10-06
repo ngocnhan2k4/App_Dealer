@@ -1,0 +1,21 @@
+.logo {
+  font-family: 'Yellowtail', cursive;
+}
+
+.button_subcribe{
+  background: linear-gradient(to bottom, #d1d5db 50%, #9ca3af 50%);
+}
+
+.greenlink {
+  color: #32CD32; /* Màu xanh lá cây */
+  opacity: 0.5; /* Độ mờ */
+  text-decoration: none; /* Không có gạch chân */
+  transition: opacity 0.3s; /* Hiệu ứng chuyển tiếp */
+}
+
+.deal__item-button{
+  background-image: linear-gradient(to bottom, #c8e084, #a3cd5a);
+  color: #7f9555;
+  border-radius: 10px;
+  border: 1px solid #a5c170;
+}
